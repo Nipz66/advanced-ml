@@ -1,4 +1,4 @@
-# Week 02 – Linear Regression
+# Week 01 – Linear Regression
 
 ## Key concepts
 
