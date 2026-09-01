@@ -1,2 +1,6 @@
 .vscode/
 *.csv
+.venv/
+__pycache__/
+.DS_Store
+.env
